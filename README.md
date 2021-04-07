@@ -3,5 +3,5 @@
 ## Concepts
     -Lookup tables
 
-## Test
+## STM32
     -EXTI: External Interruption first test 
